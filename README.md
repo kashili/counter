@@ -16,6 +16,13 @@ $ java  -Dlog4j.configuration=file:target/classes/log4j_dev.properties -jar targ
 ```
 
 ## Build
+
 ```bash
 $mvn clean  package
 ```
+
+ 
+## Eclipse setup 
+- [m2e plugin](https://stackoverflow.com/questions/8620127/maven-in-eclipse-step-by-step-installation)
+
+- [lombok](https://projectlombok.org/setup/eclipse)
